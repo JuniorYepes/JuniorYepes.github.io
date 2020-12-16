@@ -34,3 +34,12 @@ body{
     font-size: 40px;
 
 }
+
+#footer{
+    width: 90%;
+    padding: 1em;
+    border: 2px solid tomato;
+    box-shadow: 2px;
+    background: yellow;
+
+}
