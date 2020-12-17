@@ -6,3 +6,4 @@
 
 Creado por el ingenioso Junior de Platzi
 Incluye ejemplos en esta tostadora de window
+disponible para todos los peques
